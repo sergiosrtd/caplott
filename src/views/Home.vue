@@ -386,7 +386,7 @@
                   </div>
                 </div>
                 <p class="font-toucheLight max-sm:text-sm">
-                  En Mango App trabajamos con Capitán Lott en la gestión integral de nuestras campañas digitales. Es un proyecto muy exigente y valoramos su capacidad para ordenar la estrategia, ejecutar con consistencia y optimizar con foco en resultados. Su manejo de datos y la claridad con la que bajan aprendizajes y próximos pasos nos ayuda a tomar decisiones rápidas y mantener el ritmo
+                  En Automaq trabajamos con Capitán Lott en la gestión integral de nuestras campañas digitales. Es un proyecto muy exigente y valoramos su capacidad para ordenar la estrategia, ejecutar con consistencia y optimizar con foco en resultados. Su manejo de datos y la claridad con la que bajan aprendizajes y próximos pasos nos ayuda a tomar decisiones rápidas y mantener el ritmo
                 </p>
               </div>
               <div class="flex flex-col gap-y-3 min-sm:gap-y-5 min-md:gap-y-7">
